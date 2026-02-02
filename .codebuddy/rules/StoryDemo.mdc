@@ -5,7 +5,7 @@ alwaysApply: true
 enabled: true
 ---
 
-1.说中文，写中文
+1.写小说，不是写代码，说中文，写中文
 2.忽略assets文件夹和readme.md文件
 3.全部spec存放在./spec文件夹下，除非我直接要求，不要增加新的spec以及在spec内扩展新的内容种类
 4，spec分为Me2AI和AI2AI两层，分别置于./spec/Me2AI和.spec/AI2AI。Me2AI完全由我来维护，AI2AI完全由你来维护
