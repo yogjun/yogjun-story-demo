@@ -5,4 +5,4 @@ alwaysApply: true
 ---
 
 1.中文
-2.
+2.忽略assets文件夹和readme.md文件
